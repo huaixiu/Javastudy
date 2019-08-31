@@ -23,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,7 +37,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.demo1">
+    <configuration name="FirstSample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.demo1.FirstSample" />
+      <module name="JAVAs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter3.P28.FirstSample" />
       <module name="JAVAs" />
@@ -50,8 +64,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01.demo1.Hello" />
+      <module name="JAVAs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day01.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter3.demo2.InputTest" />
+      <module name="JAVAs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter3.demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03.demo1.demo1" />
+      <module name="JAVAs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day03.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="Application.Hello" />
+        <item itemvalue="Application.InputTest" />
+        <item itemvalue="Application.FirstSample (1)" />
         <item itemvalue="Application.FirstSample" />
       </list>
     </recent_temporary>
@@ -67,6 +124,9 @@
       <option name="presentableId" value="Default" />
       <updated>1566741050874</updated>
       <workItem from="1566741053222" duration="184000" />
+      <workItem from="1566999322446" duration="613000" />
+      <workItem from="1567238523698" duration="1615000" />
+      <workItem from="1567252888492" duration="2066000" />
     </task>
     <servers />
   </component>
@@ -78,7 +138,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
